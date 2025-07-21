@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NamalaTanuja
-- 🌱 I’m currently learning Java Full stack Development
+- 🌱 I’m Java Full stack Developer 
 
 
